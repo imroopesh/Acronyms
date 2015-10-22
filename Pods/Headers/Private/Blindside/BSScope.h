@@ -1,0 +1,1 @@
+../../../Blindside/Headers/BSScope.h

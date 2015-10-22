@@ -1,0 +1,8 @@
+CLANG_CXX_LANGUAGE_STANDARD = c++0x
+CLANG_CXX_LIBRARY = libc++
+GCC_PREPROCESSOR_DEFINITIONS = $(inherited) COCOAPODS=1
+HEADER_SEARCH_PATHS = "${PODS_ROOT}/Headers/Private" "${PODS_ROOT}/Headers/Private/Cedar" "${PODS_ROOT}/Headers/Public" "${PODS_ROOT}/Headers/Public/AFNetworking" "${PODS_ROOT}/Headers/Public/Blindside" "${PODS_ROOT}/Headers/Public/Cedar" "${PODS_ROOT}/Headers/Public/KSDeferred" "${PODS_ROOT}/Headers/Public/MBProgressHUD" "${PODS_ROOT}/Headers/Public/PivotalCoreKit"
+OTHER_CFLAGS = -DDEVELOPER_BIN_DIR=@\"${DEVELOPER_BIN_DIR}\"
+OTHER_LDFLAGS = -l"c++"
+PODS_ROOT = ${SRCROOT}
+SKIP_INSTALL = YES

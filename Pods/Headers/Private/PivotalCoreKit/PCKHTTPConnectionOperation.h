@@ -1,0 +1,1 @@
+../../../PivotalCoreKit/Foundation/Core/Interfaces/PCKHTTPConnectionOperation.h

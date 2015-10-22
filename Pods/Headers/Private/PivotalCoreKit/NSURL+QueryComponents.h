@@ -1,0 +1,1 @@
+../../../PivotalCoreKit/Foundation/Core/Extensions/NSURL+QueryComponents.h
